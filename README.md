@@ -10,7 +10,7 @@ Your changes will then be saved to your own account, and you can access your edi
 **Note: when you first run a cell, you will need to click 'run anyway' in the popup that appears. This is a standard pop-up that appears for any notebook you haven't created from scratch yourself!**
 
 
-Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/h6_1f_python_part_2/blob/main/1f_python_programming_part_2/1f_1.ipynb">
+Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_1f_python_part_2/blob/main/1f_python_programming_part_2/1f_1.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
